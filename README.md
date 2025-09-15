@@ -48,10 +48,6 @@ Run the System *Power on the LPC2148 board. *The LCD will display a welcome mess
 
 Feel free to fork this repository, make improvements, and submit pull requests! 🙌 Let's make this project even better together. 😊
 
-📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 🙏 Acknowledgments
 
 LPC2148 Community for excellent documentation. ThingSpeak for providing a free IoT platform. You, for exploring this project! 🎉
